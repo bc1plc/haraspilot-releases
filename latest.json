@@ -1,11 +1,11 @@
 {
   "version": "0.7.0",
   "notes": "Mise à jour HarasPilot v0.7.0",
-  "pub_date": "2026-01-10T21:12:44Z",
+  "pub_date": "2026-01-12T17:03:55Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/bc1plc/haraspilot-releases/releases/download/v0.7.0/HarasPilot_0.7.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQkdmZWtZaTEwT3hlWS96dUpLdWRmbEVVZmxhY3lnVk5uTjZqQXJlbCtWZS9MZnVqOUFMSWhvRVgrZ0VSa0QrVlFLRHdRRFhYLytpZ0tpWmtqaEkyQ3hOTE9GMVdIVHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MDc5NTYyCWZpbGU6SGFyYXNQaWxvdF8wLjcuMF94NjQtc2V0dXAuZXhlCmdnbWlydVlnblZFY2VOUGZ2NjVwb0JObW5VNDBxUnRON28vcVRMZ0N6M3F0USt2QmxxQ3M4TVVmMEpWaVRwMXRrL3RUcDg3bFNNNVJPY1pCYnkxWkNRPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQkdmZWtZaTEwTzJkc1lRUDVWWHh6VFJVN3JGT1RwL3FxUkNUOVpWdzQ3YUxheDBKY0xxdFJvK2tLZzVXZThzdnpDdk9RdUl1amMzMUdJWDVDT1oxbXRvelptV3VHcHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MjM3NDMxCWZpbGU6SGFyYXNQaWxvdF8wLjcuMF94NjQtc2V0dXAuZXhlCnpRMER1RTBrYTRwalVOampTSjBBTDFnaFMzbC8wNGxxa25HeGlmQk1PVEhtVEJOdlp1RFFMQzBXSTRQN3FySHRkVTRQSHFOaHVUYkhKZ2FmU1VTUEJnPT0K"
     }
   }
 }
